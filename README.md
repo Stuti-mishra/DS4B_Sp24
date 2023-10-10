@@ -1,15 +1,15 @@
-# foster_2023Spring
-This is Course Repo for TECH-GB. 2336: Data Science for Business Analytics in 2023 Spring.
+# DS4B_Sp24
+This is the Course Repo for TECH-GB. 2336 and 57: Data Science for Business Analytics in Spring 2024.
 
 
 ## Introduction
 
-This repository will include modules with Ipython Notebooks (that can be opened in Colab) created for the class Data Science for Business Analytics (NYU Stern School of Business, Spring 2023). Each module includes data, code and description of each task within the Data Science Framework.
+This repository will include modules with Ipython Notebooks (that can be opened in Colab) created for the class Data Science for Business Analytics (NYU Stern School of Business, Spring 2024). Each module includes data, code and description of each task within the Data Science Framework.
 
 
 ## Motivation
 
-The creation and maintenance of this project attempts to show the work that can be done to solve different Data Science and Data Mining problems. 
+The creation and maintenance of this project attempts to show the work that can be done to solve different Data Science problems. 
 
 
 ## Installation
