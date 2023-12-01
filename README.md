@@ -19,11 +19,11 @@ The basic libraries required for the notebooks are: pandas, numpy, datetime, os,
 
 ## Contributors
 
+Course originally created by:
 Prof. Foster Provost - NYU Stern School of Business [Website](http://people.stern.nyu.edu/fprovost/)
-
 Rubing Li [Contact](mailto:rl4229@stern.nyu.edu)
 
-These notebooks are based on the prior work (w/Prof. Provost) of: 
+Notebooks are based on the prior work (w/Prof. Provost) of: 
 Pearl Yu [Contact](https://www.notion.so/pearlyu/Pearl-Peiyan-Yu-1fff9a63a0a949228bd79ad97679bad8)
 Ben Wolfson [Contact](https://www.linkedin.com/in/ben-wolfson-61925a87/)
 Carlos Fernandez [Github link](https://github.com/ferlocar)
